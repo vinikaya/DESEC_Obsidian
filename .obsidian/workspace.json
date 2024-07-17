@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md"
+                "file": "README.md"
               }
             }
           }
@@ -144,13 +144,16 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b9b00644fcc4e5c3",
+  "active": "5c270cb6b5ab940e",
   "lastOpenFiles": [
-    "DESEC",
     "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+    "README.md",
+    "DESEC",
     "Sem título.md",
     "DESEC",
     "DESEC/4-Overview Web e HTTP/HTTP.md",
