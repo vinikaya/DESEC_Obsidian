@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "967150fdc1a817da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7092af78d9e6ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c270cb6b5ab940e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "236eaecd7349fcb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8677018a6b3b9552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b00644fcc4e5c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ccea7a634183bef0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76239365b1e475be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fd9c1bc8bf61adb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd2d80bb1495930b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a7d60124b84ae5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1b9c9e0542a00cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3e2fb2993b64865",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e4e7c0c0702531a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DESEC/5-Protocolo TCP-IP/TCP-IP.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b9b00644fcc4e5c3",
+  "lastOpenFiles": [
+    "DESEC",
+    "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+    "Sem título.md",
+    "DESEC",
+    "DESEC/4-Overview Web e HTTP/HTTP.md",
+    "DESEC/5-Protocolo TCP-IP",
+    "DESEC/4-Overview Web e HTTP/Web server.md",
+    "Untitled.canvas",
+    "DESEC/2-Passos_iniciais/Pilares segurança da informação.md",
+    "DESEC/3-Terminais/Comandos Win.md",
+    "DESEC/4-Overview Web e HTTP",
+    "DESEC/3-Terminais/Comandos Linux.md",
+    "DESEC/1-Introdução ao Pentest/Tipos de testes de segurança.md",
+    "DESEC/3-Terminais",
+    "DESEC/2-Passos_iniciais/Terminologias.md",
+    "DESEC/1-Introdução ao Pentest",
+    "Untitled.md",
+    "DESEC/2-Passos_iniciais/VPN_Curso.md",
+    "DESEC/2-Passos_iniciais",
+    "2024-07-03.md"
+  ]
+}
