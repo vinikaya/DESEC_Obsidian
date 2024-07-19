@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DESEC/5-Protocolo TCP-IP/Protocolo IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fd9c1bc8bf61adb6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DESEC/5-Protocolo TCP-IP/Protocolo IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DESEC/5-Protocolo TCP-IP/Protocolo IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DESEC/5-Protocolo TCP-IP/Protocolo IP.md"
               }
             }
           }
@@ -151,7 +152,18 @@
   },
   "active": "5c270cb6b5ab940e",
   "lastOpenFiles": [
-    "DESEC/5-Protocolo TCP-IP/TCP-IP.md",
+    "Pasted image 20240719161622.png",
+    "Pasted image 20240719161437.png",
+    "DESEC/5-Protocolo TCP-IP/Protocolo ARP.md",
+    "DESEC/5-Protocolo TCP-IP/Protocolo IP.md",
+    "Pasted image 20240719160750.png",
+    "Pasted image 20240719160425.png",
+    "Pasted image 20240719155721.png",
+    "Pasted image 20240719155239.png",
+    "DESEC/5-Protocolo TCP-IP/Protocolo Ethernet.md",
+    "Pasted image 20240719153726.png",
+    "DESEC/5-Protocolo TCP-IP/Protocolos de rede.md",
+    "DESEC/5-Protocolo TCP-IP/Introdução TCP IP.md",
     "README.md",
     "DESEC",
     "Sem título.md",
