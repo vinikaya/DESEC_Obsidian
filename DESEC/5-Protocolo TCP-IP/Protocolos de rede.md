@@ -1,4 +1,4 @@
-A maioria dos protocolos de rede são compostos por um cabeçalhoe uma area de dados
+A maioria dos protocolos de rede são compostos por um cabeçalho e uma área de dados
 	Header - Cada header tem uma estrutura especifica
 	Payload - Contem as infos que o protocolo carrega.
 

@@ -1,4 +1,4 @@
-Carrega endereços fisicos
+Carrega endereços físicos
 
 Estrutura:
 	Mac de destino
