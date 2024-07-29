@@ -1,3 +1,4 @@
+
 MAC Address  - endereço físico vem de fabrica
 	Formado por 6 bytes
 		3 primeiros bytes é usado para descobrir o fabricante ex: ==A4:5E:60==:B8:C1:AF, Fabricando desse endereço MAC é a apple.

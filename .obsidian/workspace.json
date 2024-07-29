@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/Protocolo ARP.md",
+                "file": "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/Protocolo ARP.md",
+                "file": "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/Protocolo ARP.md",
+                "file": "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/5-Protocolo TCP-IP/Protocolo ARP.md"
+                "file": "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md"
               }
             }
           }
@@ -149,27 +149,33 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5c270cb6b5ab940e",
+  "active": "b9b00644fcc4e5c3",
   "lastOpenFiles": [
-    "DESEC/5-Protocolo TCP-IP/Protocolo IP.md",
-    "DESEC/5-Protocolo TCP-IP/Protocolo ARP.md",
-    "DESEC/5-Protocolo TCP-IP/Protocolo Ethernet.md",
-    "DESEC/5-Protocolo TCP-IP/Introdução TCP IP.md",
-    "DESEC/5-Protocolo TCP-IP/Protocolos de rede.md",
-    "Pasted image 20240719160750.png",
-    "Pasted image 20240719155721.png",
-    "Pasted image 20240719155239.png",
-    "Pasted image 20240719153726.png",
-    "Pasted image 20240719172913.png",
-    "Pasted image 20240719161622.png",
-    "Pasted image 20240719161437.png",
-    "Pasted image 20240719160425.png",
+    "Pasted image 20240729164822.png",
+    "Pasted image 20240729164340.png",
+    "Pasted image 20240729164204.png",
+    "DESEC/5-Protocolos TCP-IP/Juntando as partes 01.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
+    "Pasted image 20240729163906.png",
+    "Pasted image 20240729163432.png",
+    "Pasted image 20240729163418.png",
+    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
+    "Pasted image 20240729162744.png",
+    "DESEC/5-Protocolos TCP-IP/Protocolo IP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo ARP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolos de rede.md",
+    "DESEC/5-Protocolos TCP-IP/Introdução TCP IP.md",
+    "Pasted image 20240729162318.png",
+    "Pasted image 20240729161606.png",
+    "Pasted image 20240729160126.png",
+    "Pasted image 20240729160059.png",
     "README.md",
     "DESEC",
     "Sem título.md",
     "DESEC",
     "DESEC/4-Overview Web e HTTP/HTTP.md",
-    "DESEC/5-Protocolo TCP-IP",
+    "DESEC/5-Protocolos TCP-IP",
     "DESEC/4-Overview Web e HTTP/Web server.md",
     "Untitled.canvas",
     "DESEC/2-Passos_iniciais/Pilares segurança da informação.md",

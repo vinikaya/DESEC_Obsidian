@@ -1,3 +1,4 @@
+Internet Protocol 
 Responsável por entrega de pacote entre maquinas.
 Não é confiável por somente entregar os pacotes sem realizar verificações.
 Para confiabilidade associa o Protocolo IP ao Protocolo TCP.
