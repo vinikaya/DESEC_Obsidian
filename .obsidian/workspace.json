@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "fd9c1bc8bf61adb6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md"
+                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md"
               }
             }
           }
@@ -151,13 +152,16 @@
   },
   "active": "5c270cb6b5ab940e",
   "lastOpenFiles": [
+    "DESEC/6-Analisadores de Protocolos/Wireshark.md",
+    "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
+    "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+    "DESEC/6-Analisadores de Protocolos",
     "Pasted image 20240730173219.png",
     "Pasted image 20240730173057.png",
     "Pasted image 20240730172856.png",
     "Pasted image 20240730165842.png",
     "Pasted image 20240730165326.png",
     "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
-    "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
     "Pasted image 20240730164904.png",
     "README.md",
     "Pasted image 20240730163829.png",
@@ -165,7 +169,6 @@
     "Pasted image 20240730161112.png",
     "Pasted image 20240730160235.png",
     "Pasted image 20240730155923.png",
-    "Pasted image 20240730155706.png",
     "DESEC/5-Protocolos TCP-IP/Protocolo ICMP.md",
     "DESEC/5-Protocolos TCP-IP/Entendendo PING.md",
     "DESEC/5-Protocolos TCP-IP/Traceroute com ICMP.md",
@@ -193,7 +196,6 @@
     "DESEC/3-Terminais",
     "DESEC/2-Passos_iniciais/Terminologias.md",
     "DESEC/1-Introdução ao Pentest",
-    "Untitled.md",
     "DESEC/2-Passos_iniciais"
   ]
 }
