@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
+                "file": "DESEC/6-Analisadores de Protocolos/Resolução VLABS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1147da9f4a4a815e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ghjgh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf2456700e720d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
+                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
+                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/6-Analisadores de Protocolos/TCPDUMP.md"
+                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md"
               }
             }
           }
@@ -150,39 +175,43 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5c270cb6b5ab940e",
+  "active": "bf2456700e720d2d",
   "lastOpenFiles": [
-    "DESEC/6-Analisadores de Protocolos/Wireshark.md",
-    "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
+    "DESEC/7-Bash Scripting(Linux)/Bash Scripting.md",
+    "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
+    "Pasted image 20240807161115.png",
+    "Pasted image 20240807160533.png",
+    "ghjgh.md",
+    "DESEC/6-Analisadores de Protocolos/Resolução VLABS.md",
+    "DESEC/7-Bash Scripting(Linux)",
     "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo HTTP.md",
+    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
+    "DESEC/6-Analisadores de Protocolos/Wireshark.md",
+    "DESEC/5-Protocolos TCP-IP/Juntando as partes 01.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo IP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo ARP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolos de rede.md",
+    "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
+    "DESEC/5-Protocolos TCP-IP/Entendendo PING.md",
+    "DESEC/5-Protocolos TCP-IP/Traceroute com ICMP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo ICMP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo DNS.md",
     "DESEC/6-Analisadores de Protocolos",
     "Pasted image 20240730173219.png",
     "Pasted image 20240730173057.png",
     "Pasted image 20240730172856.png",
     "Pasted image 20240730165842.png",
     "Pasted image 20240730165326.png",
-    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
     "Pasted image 20240730164904.png",
     "README.md",
     "Pasted image 20240730163829.png",
-    "DESEC/5-Protocolos TCP-IP/Protocolo IP.md",
     "Pasted image 20240730161112.png",
-    "Pasted image 20240730160235.png",
-    "Pasted image 20240730155923.png",
-    "DESEC/5-Protocolos TCP-IP/Protocolo ICMP.md",
-    "DESEC/5-Protocolos TCP-IP/Entendendo PING.md",
-    "DESEC/5-Protocolos TCP-IP/Traceroute com ICMP.md",
     "DESEC/5-Protocolos TCP-IP/Entendendo TTL.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo HTTP.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo DNS.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
-    "DESEC/5-Protocolos TCP-IP/Juntando as partes 01.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo ARP.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolos de rede.md",
     "DESEC/5-Protocolos TCP-IP/Introdução TCP IP.md",
     "DESEC",
-    "Sem título.md",
     "DESEC",
     "DESEC/4-Overview Web e HTTP/HTTP.md",
     "DESEC/5-Protocolos TCP-IP",
@@ -191,10 +220,7 @@
     "DESEC/2-Passos_iniciais/Pilares segurança da informação.md",
     "DESEC/3-Terminais/Comandos Win.md",
     "DESEC/4-Overview Web e HTTP",
-    "DESEC/3-Terminais/Comandos Linux.md",
-    "DESEC/1-Introdução ao Pentest/Tipos de testes de segurança.md",
     "DESEC/3-Terminais",
-    "DESEC/2-Passos_iniciais/Terminologias.md",
     "DESEC/1-Introdução ao Pentest",
     "DESEC/2-Passos_iniciais"
   ]

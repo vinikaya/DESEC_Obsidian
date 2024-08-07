@@ -1,6 +1,6 @@
 Analisador de protocolos em linha de comando.
-
-Comando: 
+https://www.tcpdump.org/manpages/pcap-filter.7.html  -- documentação dos filtros de visualização de arquivos pcap com tcpdump.
+Comando:
 	- tcpdump -v -i eth0  -- faz a captura da interface de rede 'eth0', 
 		- -v = modo verbose(mostrar detalhes);
 		- -i = indica interface de rede;
@@ -11,7 +11,22 @@ Comando:
 		- -n troca o nome do servidor pelo endereço IP(para ver o nome é só tirar o "n").
 		- -v entra no modo verbose mostrando mais detalhes dos pacotes como o protocolo e etc.
 		- -e traz detalhes sobre o protocolo Ethernet
-	- 
-	
-	
-	
+	- Flags [ . ] quando tem um . no protocolo TCP significa ACK.
+	- As informações começam com o nome do protocolo e acabam com ":", logo em seguida é outro protocolo ou info.
+	- tcpdump -vnr exp1.pca src host 192.168.0.1:
+		- Host 192.168... - mostra tudo relacionado ao host 
+		- rsc: mostra o pacotes com origem o IP indicado.
+		- dst: trocar pelo "src" para ip destino.
+		- 
+	-tcpdump -vnr arquivo.pcap | head
+		-Mostras somente o começo do arquivo.
+	-tcpump -vnr arquivo.pcap | cut -d " " -f 5 | grep -v ttl | sort -u
+		-cut -d " " -f 5 -- corta as informações em 5 espaços
+		-grep -v ttl  -- remove as linhas que possui "ttl"
+		-sort -u  -- ordena os dados em ordem crescente ou decrescente.
+	-tcpdump -vnr arquivo.pcap src 192.168.0.104 | cut -d "," -f1 | grep -v tos | grep -v "S" | grep "F\\."
+		-src 192.168...  -- indica para filtra somente os pacotes com ip origem indicado.
+		-cut -d "," -f1  -- indica para cortar as informações na "," e o -f1 indica para mostrar a primeira parte(antes da virgula).
+		-grep -v tos  -- remover linhas que possuem "tos"
+		-grep -v "S"  -- removar linhas que possuem S pois nesse exemplo indica a Flag SYN do protocolo TCP.
+		-grep "F\\."  (somente 1 contra barra)-- para mostrar somente as linhas com essa informação, o "\" serve para forçar o grep a ler o "." e entender exatamente "F."
