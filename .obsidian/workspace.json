@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
+                "file": "DESEC/Scripting/Power Shell para pentester.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "fd9c1bc8bf61adb6",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
+                "file": "DESEC/Scripting/Power Shell para pentester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
+                "file": "DESEC/Scripting/Power Shell para pentester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md"
+                "file": "DESEC/Scripting/Power Shell para pentester.md"
               }
             }
           }
@@ -177,21 +176,35 @@
   },
   "active": "bf2456700e720d2d",
   "lastOpenFiles": [
-    "DESEC/7-Bash Scripting(Linux)/Bash Scripting.md",
-    "DESEC/7-Bash Scripting(Linux)/Parsing HTML.md",
+    "DESEC/Scripting/Linux-Parsing HTML.md",
+    "DESEC/Scripting/Power Shell para pentester.md",
+    "DESEC/Scripting/Linguagem C.md",
+    "DESEC/Scripting/python.md",
+    "Pasted image 20240816171344.png",
+    "Pasted image 20240816150809.png",
+    "Pasted image 20240816150539.png",
+    "DESEC/6-Analisadores de Protocolos/Resolução VLABS.md",
+    "Pasted image 20240812175142.png",
+    "Pasted image 20240812171257.png",
+    "Pasted image 20240812170259.png",
+    "Pasted image 20240812165745.png",
+    "Pasted image 20240812163918.png",
+    "DESEC/Scripting/Linux-Bash Scripting.md",
+    "DESEC/Scripting/Sem título",
+    "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
+    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
+    "DESEC/5-Protocolos TCP-IP/Introdução TCP IP.md",
     "Pasted image 20240807161115.png",
     "Pasted image 20240807160533.png",
     "ghjgh.md",
-    "DESEC/6-Analisadores de Protocolos/Resolução VLABS.md",
-    "DESEC/7-Bash Scripting(Linux)",
+    "DESEC/Scripting",
     "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo HTTP.md",
-    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
     "DESEC/6-Analisadores de Protocolos/Wireshark.md",
     "DESEC/5-Protocolos TCP-IP/Juntando as partes 01.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo IP.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo ARP.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
     "DESEC/5-Protocolos TCP-IP/Protocolos de rede.md",
     "DESEC/6-Analisadores de Protocolos/TCPDUMP.md",
     "DESEC/5-Protocolos TCP-IP/Entendendo PING.md",
@@ -199,26 +212,12 @@
     "DESEC/5-Protocolos TCP-IP/Protocolo ICMP.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo DNS.md",
     "DESEC/6-Analisadores de Protocolos",
-    "Pasted image 20240730173219.png",
-    "Pasted image 20240730173057.png",
-    "Pasted image 20240730172856.png",
-    "Pasted image 20240730165842.png",
-    "Pasted image 20240730165326.png",
-    "Pasted image 20240730164904.png",
     "README.md",
-    "Pasted image 20240730163829.png",
-    "Pasted image 20240730161112.png",
     "DESEC/5-Protocolos TCP-IP/Entendendo TTL.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
-    "DESEC/5-Protocolos TCP-IP/Introdução TCP IP.md",
     "DESEC",
     "DESEC",
-    "DESEC/4-Overview Web e HTTP/HTTP.md",
     "DESEC/5-Protocolos TCP-IP",
-    "DESEC/4-Overview Web e HTTP/Web server.md",
     "Untitled.canvas",
-    "DESEC/2-Passos_iniciais/Pilares segurança da informação.md",
-    "DESEC/3-Terminais/Comandos Win.md",
     "DESEC/4-Overview Web e HTTP",
     "DESEC/3-Terminais",
     "DESEC/1-Introdução ao Pentest",
