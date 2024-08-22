@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md",
+                "file": "DESEC/7-Scripting/Vlabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md",
+                "file": "DESEC/7-Scripting/Vlabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md",
+                "file": "DESEC/7-Scripting/Vlabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md"
+                "file": "DESEC/7-Scripting/Vlabs.md"
               }
             }
           }
@@ -148,37 +148,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b9b00644fcc4e5c3",
+  "active": "5c270cb6b5ab940e",
   "lastOpenFiles": [
-    "DESEC/8-Swissarmy",
-    "ghjgh.md",
-    "DESEC/7-Scripting/Vlabs.md",
-    "DESEC/7-Scripting/Linux-Bash Scripting.md",
-    "DESEC/7-Scripting/Linux-Parsing HTML.md",
-    "DESEC/7-Scripting/Power Shell para pentester.md",
     "DESEC/7-Scripting/python.md",
-    "DESEC/8-swissarmy/teste git.md",
-    "DESEC/7-Scripting/Linguagem C.md",
-    "DESEC/7-Scripting",
     "DESEC/7-Scripting/Vlabs.md",
-    "DESEC/8-swissarmy",
-    "DESEC/7-Scripting/python.md",
-    "DESEC/7-Scripting/Power Shell para pentester.md",
+    "Pasted image 20240819173222.png",
+    "Pasted image 20240819172925.png",
+    "Pasted image 20240819172849.png",
     "Pasted image 20240819174213.png",
     "Pasted image 20240819173941.png",
     "Pasted image 20240819173932.png",
     "Pasted image 20240819173926.png",
     "Pasted image 20240819173907.png",
-    "Pasted image 20240819173222.png",
-    "Pasted image 20240819172925.png",
-    "Pasted image 20240819172849.png",
+    "DESEC/7-Scripting/Linux-Bash Scripting.md",
+    "DESEC/8-Swissarmy",
+    "ghjgh.md",
+    "DESEC/7-Scripting/Linux-Parsing HTML.md",
+    "DESEC/7-Scripting/Power Shell para pentester.md",
+    "DESEC/8-swissarmy/teste git.md",
+    "DESEC/7-Scripting/Linguagem C.md",
+    "DESEC/7-Scripting",
+    "DESEC/8-swissarmy",
+    "DESEC/7-Scripting/Power Shell para pentester.md",
     "DESEC/2-Passos_iniciais/VPN_Curso.md",
     "DESEC/6-Analisadores de Protocolos/Resolução VLABS.md",
     "DESEC/7-Scripting/Linux-Parsing HTML.md",
     "DESEC/7-Scripting/Linguagem C.md",
     "Pasted image 20240816171344.png",
     "Pasted image 20240816150809.png",
-    "DESEC/7-Scripting/Linux-Bash Scripting.md",
     "DESEC/Scripting/Sem título",
     "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
     "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
@@ -195,7 +192,6 @@
     "DESEC",
     "DESEC/5-Protocolos TCP-IP",
     "Untitled.canvas",
-    "DESEC/4-Overview Web e HTTP",
-    "DESEC/3-Terminais"
+    "DESEC/4-Overview Web e HTTP"
   ]
 }
