@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ghjgh.md",
+                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ghjgh.md",
+                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ghjgh.md",
+                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ghjgh.md"
+                "file": "DESEC/7-Scripting/Linux-Bash Scripting.md"
               }
             }
           }
@@ -150,15 +150,16 @@
   },
   "active": "b9b00644fcc4e5c3",
   "lastOpenFiles": [
-    "DESEC/Scripting/Vlabs.md",
-    "DESEC/Scripting/Linux-Bash Scripting.md",
-    "DESEC/Scripting/Linux-Parsing HTML.md",
-    "DESEC/Scripting/Power Shell para pentester.md",
-    "DESEC/Scripting/python.md",
-    "DESEC/8-swissarmy/teste git.md",
+    "DESEC/8-Swissarmy",
     "ghjgh.md",
-    "DESEC/Scripting/Linguagem C.md",
-    "DESEC/Scripting",
+    "DESEC/7-Scripting/Vlabs.md",
+    "DESEC/7-Scripting/Linux-Bash Scripting.md",
+    "DESEC/7-Scripting/Linux-Parsing HTML.md",
+    "DESEC/7-Scripting/Power Shell para pentester.md",
+    "DESEC/7-Scripting/python.md",
+    "DESEC/8-swissarmy/teste git.md",
+    "DESEC/7-Scripting/Linguagem C.md",
+    "DESEC/7-Scripting",
     "DESEC/7-Scripting/Vlabs.md",
     "DESEC/8-swissarmy",
     "DESEC/7-Scripting/python.md",
@@ -189,7 +190,6 @@
     "DESEC/6-Analisadores de Protocolos/Wireshark.md",
     "DESEC/5-Protocolos TCP-IP/Juntando as partes 01.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo IP.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo ARP.md",
     "DESEC/6-Analisadores de Protocolos",
     "DESEC",
     "DESEC",
