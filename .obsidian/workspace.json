@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/NCAT.md",
+                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/NCAT.md",
+                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/NCAT.md",
+                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/NCAT.md"
+                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md"
               }
             }
           }
@@ -150,18 +150,32 @@
   },
   "active": "5c270cb6b5ab940e",
   "lastOpenFiles": [
-    "DESEC/8-Swiss Army Knife/Vencendo o Firewall.md",
+    "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+    "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo DNS.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo HTTP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo ICMP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo IP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
+    "DESEC/5-Protocolos TCP-IP/Traceroute com ICMP.md",
+    "DESEC/5-Protocolos TCP-IP/Protocolos de rede.md",
+    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
+    "DESEC/8-Swiss Army Knife/dev tcp.md",
+    "DESEC/8-Swiss Army Knife/TELNET.md",
     "DESEC/8-Swiss Army Knife/NCAT.md",
-    "Pasted image 20240719155239.png",
+    "DESEC/8-Swiss Army Knife/Vencendo o Firewall.md",
     "DESEC/8-Swiss Army Knife/NETCAT.md",
-    "Pasted image 20240823160105.png",
-    "Pasted image 20240823155921.png",
+    "DESEC/8-Swiss Army Knife/SOCAT.md",
     "DESEC/8-Swiss Army Knife/Swiss Army Knife.md",
-    "Pasted image 20240823142426.png",
     "DESEC/8-Swiss Army Knife/VPS.md",
     "DESEC/8-Swiss Army Knife/Port Fowarding.md",
-    "DESEC/7-Scripting/Vlabs.md",
     "DESEC/7-Scripting/python.md",
+    "Pasted image 20240719155239.png",
+    "Pasted image 20240823160105.png",
+    "Pasted image 20240823155921.png",
+    "Pasted image 20240823142426.png",
+    "DESEC/7-Scripting/Vlabs.md",
     "Pasted image 20240819173222.png",
     "Pasted image 20240819172925.png",
     "Pasted image 20240819172849.png",
@@ -173,24 +187,10 @@
     "ghjgh.md",
     "DESEC/7-Scripting/Linux-Parsing HTML.md",
     "DESEC/7-Scripting/Power Shell para pentester.md",
-    "DESEC/8-swissarmy/teste git.md",
-    "DESEC/7-Scripting/Linguagem C.md",
     "DESEC/7-Scripting",
     "DESEC/8-swissarmy",
-    "DESEC/7-Scripting/Power Shell para pentester.md",
-    "DESEC/2-Passos_iniciais/VPN_Curso.md",
-    "DESEC/6-Analisadores de Protocolos/Resolução VLABS.md",
-    "DESEC/7-Scripting/Linux-Parsing HTML.md",
-    "DESEC/7-Scripting/Linguagem C.md",
     "DESEC/Scripting/Sem título",
-    "DESEC/5-Protocolos TCP-IP/Protocolo UDP x TCP.md",
-    "DESEC/5-Protocolos TCP-IP/Protoco TCP 3WHS.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
-    "DESEC/5-Protocolos TCP-IP/Introdução TCP IP.md",
     "DESEC/7-Scripting",
-    "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
-    "DESEC/5-Protocolos TCP-IP/Protocolo HTTP.md",
-    "DESEC/6-Analisadores de Protocolos/Wireshark.md",
     "DESEC/6-Analisadores de Protocolos",
     "DESEC",
     "DESEC",
