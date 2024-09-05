@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
+                "file": "DESEC/9-Information Gathering/Information Gathering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "fd9c1bc8bf61adb6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
+                "file": "DESEC/9-Information Gathering/Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
+                "file": "DESEC/9-Information Gathering/Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md"
+                "file": "DESEC/9-Information Gathering/Information Gathering.md"
               }
             }
           }
@@ -150,8 +151,23 @@
   },
   "active": "5c270cb6b5ab940e",
   "lastOpenFiles": [
-    "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
+    "Pasted image 20240905171609.png",
+    "DESEC/9-Information Gathering/Bing Hacking.md",
+    "DESEC/9-Information Gathering/Google hacking.md",
+    "Pasted image 20240904180700.png",
+    "DESEC/9-Information Gathering/Information Gathering.md",
+    "Pasted image 20240904173227.png",
+    "Pasted image 20240904172641.png",
+    "Pasted image 20240904172559.png",
+    "Pasted image 20240902150549.png",
+    "Pasted image 20240902145402.png",
+    "Pasted image 20240902144500.png",
+    "DESEC/9-Information Gathering/Introdução.md",
+    "Pasted image 20240828141441.png",
+    "Pasted image 20240828140728.png",
     "DESEC/8-Swiss Army Knife/VLABS CTF (VPN).md",
+    "DESEC/9-Information Gathering",
+    "DESEC/5-Protocolos TCP-IP/Bytes na rede e protocolos.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo Ethernet.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo DNS.md",
     "DESEC/5-Protocolos TCP-IP/Protocolo HTTP.md",
@@ -172,21 +188,7 @@
     "DESEC/8-Swiss Army Knife/Port Fowarding.md",
     "DESEC/7-Scripting/python.md",
     "Pasted image 20240719155239.png",
-    "Pasted image 20240823160105.png",
-    "Pasted image 20240823155921.png",
-    "Pasted image 20240823142426.png",
-    "DESEC/7-Scripting/Vlabs.md",
-    "Pasted image 20240819173222.png",
-    "Pasted image 20240819172925.png",
-    "Pasted image 20240819172849.png",
-    "Pasted image 20240819174213.png",
-    "Pasted image 20240819173941.png",
-    "Pasted image 20240819173932.png",
-    "DESEC/7-Scripting/Linux-Bash Scripting.md",
     "DESEC/8-Swiss Army Knife",
-    "ghjgh.md",
-    "DESEC/7-Scripting/Linux-Parsing HTML.md",
-    "DESEC/7-Scripting/Power Shell para pentester.md",
     "DESEC/7-Scripting",
     "DESEC/8-swissarmy",
     "DESEC/Scripting/Sem título",
@@ -195,7 +197,6 @@
     "DESEC",
     "DESEC",
     "DESEC/5-Protocolos TCP-IP",
-    "Untitled.canvas",
-    "DESEC/4-Overview Web e HTTP"
+    "Untitled.canvas"
   ]
 }
